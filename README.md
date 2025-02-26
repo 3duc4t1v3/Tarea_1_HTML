@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy [Alejandro]  
+## 👋 ¡Hola! Soy Alejandro  
 
 ### 🚀 Sobre mí
 Soy un apasionado del desarrollo y la tecnología. Me encanta aprender nuevas tecnologías y mejorar mis habilidades de programación. Actualmente, trabajo con diversas herramientas y lenguajes para crear soluciones eficientes y creativas.  
@@ -13,7 +13,7 @@ Soy un apasionado del desarrollo y la tecnología. Me encanta aprender nuevas te
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
 
-### 📊 Estadísticas de GitHub
+### 📊 Estadísticas de GitHub Alejo
 ![Tus estadísticas Alejo](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)  
 
 ---
