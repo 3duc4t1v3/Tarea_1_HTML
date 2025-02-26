@@ -14,7 +14,7 @@ Soy un apasionado del desarrollo y la tecnología. Me encanta aprender nuevas te
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 ### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)  
+![Tus estadísticas Alejo](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)  
 
 ---
 📫 **Contáctame:**  
